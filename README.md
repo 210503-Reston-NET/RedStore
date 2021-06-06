@@ -1,2 +1,3 @@
 # RedStore
 sugar
+candy
