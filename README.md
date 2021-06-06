@@ -1,3 +1,4 @@
 # RedStore
 sugar
 candy
+sweet
